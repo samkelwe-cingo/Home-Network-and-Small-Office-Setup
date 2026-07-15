@@ -7,7 +7,7 @@
 - Frequent disconnections
 - Weak signal
 
----
+--- 
 
 # Basic Checks
 
